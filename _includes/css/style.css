@@ -202,8 +202,8 @@ body {
 	background: #ffffff; 
 	margin: 0; 
 	height: 100%; 
+	font-family: 'ralewayregular';
 	color: {{ site.colors.secondary }};
-	font-family: 'ralewaysemibold';
 	/*font-weight: 400;*/
 	}
 
