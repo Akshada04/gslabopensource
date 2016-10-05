@@ -21,170 +21,170 @@
 
 @font-face {
     font-family: 'ralewayblack';
-    src: url('../assets/fonts/raleway-black-webfont.woff2') format('woff2'),
-         url('../assets/fonts/raleway-black-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-black-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-black-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayblack_italic';
-    src: url('../assets/fonts/raleway-blackitalic-webfont.woff2') format('woff2'),
-         url('../assets/fonts/raleway-blackitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-blackitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-blackitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaybold';
-    src: url('../assets/fonts/raleway-bold-webfont.woff2') format('woff2'),
-         url('../assets/fonts/raleway-bold-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-bold-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaybold_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-bolditalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-bolditalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-bolditalic-webfont.woff2') format('woff2'),
+         url('../../gslabopensource/assets/fonts/raleway-bolditalic-webfont.woff') format('woff');
     font-weight: normal;
    font-style: normal;
 }
 @font-face {
     font-family: 'ralewayextrabold';
-    src: url('../gslabopensource/assets/fonts/raleway-extrabold-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-extrabold-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-extrabold-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-extrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayextrabold_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-extrabolditalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-extrabolditalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-extrabolditalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-extrabolditalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayextralight';
-    src: url('../gslabopensource/assets/fonts/raleway-extralight-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-extralight-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-extralight-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-extralight-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayextralight_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-extralightitalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-extralightitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-extralightitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-extralightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayitalic';
-    src: url('../gslabopensource/assets/fonts/raleway-italic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-italic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-italic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaylight';
-    src: url('../gslabopensource/assets/fonts/raleway-light-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-light-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-light-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaylight_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-lightitalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-lightitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-lightitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaymedium';
-    src: url('../gslabopensource/assets/fonts/raleway-medium-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-medium-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-medium-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayextralight';
-    src: url('../gslabopensource/assets/fonts/raleway-extralight-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-extralight-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-extralight-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-extralight-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'ralewayextralight_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-extralightitalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-extralightitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-extralightitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-extralightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayitalic';
-    src: url('../gslabopensource/assets/fonts/raleway-italic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-italic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-italic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaylight';
-    src: url('../gslabopensource/assets/fonts/raleway-light-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-light-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-light-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaylight_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-lightitalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-lightitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-lightitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaymedium';
-    src: url('../gslabopensource/assets/fonts/raleway-medium-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-medium-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-medium-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaymedium_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-mediumitalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-mediumitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-mediumitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayregular';
-    src: url('../assets/fonts/raleway-regular-webfont.woff2') format('woff2'),
-         url('../assets/fonts/raleway-regular-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-regular-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaysemibold';
-    src: url('../gslabopensource/assets/fonts/raleway-semibold-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-semibold-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-semibold-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaysemibold_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-semibolditalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-semibolditalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-semibolditalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-semibolditalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaythin';
-    src: url('../gslabopensource/assets/fonts/raleway-thin-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-thin-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-thin-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-thin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewaythin_italic';
-    src: url('../gslabopensource/assets/fonts/raleway-thinitalic-webfont.woff2') format('woff2'),
-         url('../gslabopensource/assets/fonts/raleway-thinitalic-webfont.woff') format('woff');
+    src: url('../../assets/fonts/raleway-thinitalic-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/raleway-thinitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
