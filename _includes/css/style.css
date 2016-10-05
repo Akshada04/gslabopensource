@@ -248,7 +248,7 @@ a {
 	-o-transition: background-color .4s linear, color .4s linear;
 	-ms-transition: background-color .4s linear, color .4s linear;
 	transition: background-color .4s linear, color .4s linear;
-	font-family:'ralewaymedium';
+	
 }
 a:hover,
 a:focus {
@@ -295,6 +295,7 @@ a:focus {
 
 .navbar-default .navbar-nav > li > a {
 	color: white;
+	font-family:'ralewaymedium';
 	/*font-weight: 700;
 	font-size: 12px;*/
 }
