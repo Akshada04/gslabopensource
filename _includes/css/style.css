@@ -414,16 +414,7 @@ a:focus {
 	color: white;
 	/*font-weight: 400;*/
 }
-.he-wrap {
-    position: relative;
-    zoom: 1;
-    border: 1px solid;
-    height: 213px;
-    text-align: center;
-    vertical-align: middle;
-    display: table-cell;
-    min-height: 213px;
-}
+
 #headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
