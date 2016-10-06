@@ -211,6 +211,9 @@ h1, h2, h3, h4, h5, h6 {
 	 font-family: 'ralewaymedium';
 	/*font-weight: 700;*/
 }
+.col-md-4 h4 {
+    font-weight: 500;
+}
 
 p { 
 	padding: 0; 
