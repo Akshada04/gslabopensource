@@ -2,7 +2,12 @@
 {
 	position:relative;
 	zoom:1;
-
+     border: 1px solid;
+     height: 213px;
+     text-align: center;
+     vertical-align: middle;
+     display: table-cell;
+     min-height: 213px;
 	*display:inline;
 	position:relative;
 }
