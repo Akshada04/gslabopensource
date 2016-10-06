@@ -217,6 +217,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .img_block.col-lg-2.col-md-2.col-sm-2.col-md-offset-1 {
     margin: 0 auto;
+	width:20%;
 }
 p { 
 	padding: 0; 
