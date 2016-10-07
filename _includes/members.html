@@ -3,6 +3,7 @@
         <h3 class="mb">TAKE A LOOK AT OUR TOP CONTRIBUTORS</h3>
         
         {% for member in site.members %}
+        <div class="contributors_1">
         <div class="img_class">
                    <div class="he-wrap tpl6">
                  <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="" class="abc">
@@ -20,7 +21,8 @@
             <h5 class="ctitle">{{ member.position }}</h5>
             <p>{{ member.text }}</p>
             <div class="hline"></div>
-        </div><! --/col-md-2 -->	 	
+        </div><! --/col-md-2 -->	
+        </div>
         {% endfor %}
         
     </div><! --/row -->
