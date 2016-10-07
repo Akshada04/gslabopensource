@@ -227,6 +227,7 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     margin: 0 auto;
     float: left;
+	position:absolute;
 	clip: rect(10px, 20px, 30px, 40px);
 }
 img.img-responsive {
