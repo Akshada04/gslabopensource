@@ -221,6 +221,17 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     margin: 0 auto;
 }
+.img_class {
+    width: 25%;
+    padding: 0 10px;
+    display: inline-block;
+    margin: 0 auto;
+    float: left;
+}
+.he-wrap img {
+    width: 100%;
+    height: 200px;
+}
 p { 
 	padding: 0; 
 	margin-bottom: 12px; 
