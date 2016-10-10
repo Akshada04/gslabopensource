@@ -236,10 +236,10 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
 }
 img.img-responsive {
-    height: 200px;
-    width: 400px;
-	position: absolute;
-     clip: rect(10px, 237px, 213px, 14px);
+      min-height: 230px;
+    width: 93%;
+    position: absolute;
+    clip: rect(15px, 300px, 230px, 17px);
 }
 p { 
 	padding: 0; 
