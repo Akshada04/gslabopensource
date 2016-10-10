@@ -5,7 +5,7 @@
         height: 213px;
      text-align: center;
      vertical-align: middle;
-     display: table-cell;
+/*      display: table-cell; */
      min-height: 213px;
 	*display:inline;
 	position:relative;
