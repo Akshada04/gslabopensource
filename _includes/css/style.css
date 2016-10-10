@@ -238,9 +238,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 img.img-responsive {
       min-height: 230px;
-    width: 93%;
+    width: 100%
     position: absolute;
-    clip: rect(15px, 300px, 230px, 17px);
+        clip: rect(15px, 250px, 230px, 0);
 }
 p { 
 	padding: 0; 
