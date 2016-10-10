@@ -229,6 +229,9 @@ h1, h2, h3, h4, h5, h6 {
     float: left;
 		
 }
+.contributors.he-wrap.tpl6 {
+    display: block;
+}
 img.img-responsive {
     height: 200px;
     width: 400px;
