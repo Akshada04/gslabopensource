@@ -227,7 +227,10 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     margin: 0 auto;
     float: left;
-		
+}
+.members-name {
+    width: 100%;
+    min-height: 153px;
 }
 .contributors.he-wrap.tpl6 {
     display: block;
