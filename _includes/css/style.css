@@ -227,13 +227,13 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     margin: 0 auto;
     float: left;
-		clip: rect(10px, 20px, 30px, 40px);
+		
 }
 img.img-responsive {
     height: 200px;
     width: 400px;
 	position: absolute;
-  clip: rect(10px, 290px, 190px, 10px);
+     clip: rect(10px, 237px, 213px, 14px);
 }
 p { 
 	padding: 0; 
