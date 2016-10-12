@@ -743,8 +743,11 @@ a.anchor{
 	.col-lg-8.col-lg-offset-2.centered h2{
 	font-size:28px;
 	}
-	.he-wrap.tpl6 img,.he-view{
+	.he-wrap.tpl6 img{
 		    max-width: 105%;
+	}
+	.he-view{
+		width:106%;
 	}
 	
 }
