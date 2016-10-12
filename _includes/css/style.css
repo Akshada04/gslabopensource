@@ -726,15 +726,18 @@ a.anchor{
 }
 @media only screen and (min-width: 767px) and (max-width: 1024px){
 	.members-name{
-		min-height:146px;
+		min-height:171px;
 	}
 	.members-name h4{
 	font-size:15px;
 	}
 	.members-name h5{
-	font-size:12px;
+	font-size:13px;
 	}
 	.members-name p{
-		font-size:11px;
+		font-size:13px;
+	}
+	.col-lg-8.col-lg-offset-2.centered h3{
+	font-size:22px;
 	}
 }
