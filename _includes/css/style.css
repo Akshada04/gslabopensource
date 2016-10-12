@@ -738,6 +738,13 @@ a.anchor{
 		font-size:13px;
 	}
 	.col-lg-8.col-lg-offset-2.centered h3{
-	font-size:22px;
+	font-size:19px;
 	}
+	.col-lg-8.col-lg-offset-2.centered h2{
+	font-size:28px;
+	}
+	.he-wrap.tpl6 img,.he-view{
+		    max-width: 105%;
+	}
+	
 }
