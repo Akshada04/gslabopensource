@@ -6,6 +6,7 @@
         <div class="recentitems portfolio">
             {% for project in site.categories['project'] limit:include.limit %}
                 <div class="portfolio-item graphic-design">
+                    <div class="img_container">
                        <div class="projects_img_block">
                     <div class="he-wrap tpl6">
                      <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="" >
@@ -17,6 +18,7 @@
                             </div><!-- he bg -->
                         </div><!-- he view -->		
                     </div><!-- he wrap -->
+                    </div>
                     </div>
                 </div><!-- end col-12 -->
             {% endfor %}
