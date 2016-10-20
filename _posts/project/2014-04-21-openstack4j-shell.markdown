@@ -5,8 +5,8 @@ date:   2016-06-01 16:54:46
 author: Vinod Borole
 categories:
 - project
-img: o4j-shell.jpg
-thumb: thumb02.jpg
+img: o4j-shell.png
+thumb: thumb02.png
 carousel:
 - single01.jpg
 - single02.jpg
