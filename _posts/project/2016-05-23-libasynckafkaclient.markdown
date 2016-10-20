@@ -5,8 +5,8 @@ date:   2016-05-25 16:54:46
 author: Ganesh Nikam
 categories:
 - project
-img: apache-kafka.jpg
-thumb: thumb02.jpg
+img: apache-kafka.png
+thumb: thumb02.png
 carousel:
 - single01.jpg
 - single02.jpg
