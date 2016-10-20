@@ -5,7 +5,7 @@ date:   2016-03-01 16:54:46
 author: Vinod Borole
 categories:
 - project
-img: o4j-gbp.jpg
+img: o4j-gbp.png
 carousel:
 - single01.jpg
 - single02.jpg
