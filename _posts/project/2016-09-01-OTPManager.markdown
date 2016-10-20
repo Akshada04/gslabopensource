@@ -5,7 +5,7 @@ date:   2016-09-01 16:54:46
 author: Abdul Waheed
 categories:
 - project
-img: otp-manager.jpg
+img: otp-manager.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
