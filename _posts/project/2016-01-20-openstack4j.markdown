@@ -5,8 +5,8 @@ date:   2016-01-20 16:54:46
 author: Vinod Borole
 categories:
 - project
-img: o4j-misc.jpg
-thumb: thumb02.jpg
+img: o4j-misc.png
+thumb: thumb02.png
 carousel:
 - single01.jpg
 - single02.jpg
