@@ -6,7 +6,7 @@ author: Abdul Waheed
 categories:
 - project
 img: otp-manager.png
-thumb: thumb02.jpg
+thumb: thumb02.png
 carousel:
 - single01.jpg
 - single02.jpg
