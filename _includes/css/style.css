@@ -237,6 +237,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
     float: left;
 }
+img.img-responsive.project-logo {
+    max-width: 80%;
+    margin: 0 auto;
+}
 .members-name {
         width: 100%;
     min-height: 152px;
