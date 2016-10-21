@@ -227,6 +227,9 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     margin: 0 auto;
 }
+.portfolio-item.graphic-design.isotope-item {
+    width: 20% !important;
+}
 .img_class {
     width: 25%;
     padding: 0 15px;
