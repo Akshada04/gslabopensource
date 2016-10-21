@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 .contributors.he-wrap.tpl6 {
     display: block;
 }
-img.img-members {
+img#img-members {
       min-height: 230px;
     width: 100%;
     position: absolute;
